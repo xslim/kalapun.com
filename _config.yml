@@ -111,6 +111,13 @@ social:
   rss: https://kalapun.com/feed.xml
 
 
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  input: GFM 
+  syntax_highlighter: rouge
+
 # prose:
 #   siteurl: "https://kalapun.com"
 #   ignore:
