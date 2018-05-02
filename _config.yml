@@ -16,14 +16,6 @@ author: xslim
 
 # relative_permalinks: false
 
-markdown: CommonMarkGhPages
-commonmark:
-  options: ["SMART", "FOOTNOTES"]
-  extensions: ["strikethrough", "autolink", "table"]
-# markdown: redcarpet
-# redcarpet:
-#   extensions: ["tables", "autolink"]
-
 optional_front_matter:
   remove_originals: true
   
