@@ -1,0 +1,140 @@
+title: taras kalapun
+repository: xslim/xslim.github.io
+
+permalink: /posts/:title/
+
+
+# # Site settings
+
+author: xslim
+
+# email: t@kalapun.com
+# author: Taras Kalapun
+# description: An it-problem solver and adrenaline junky. Sailing, skydiving, scuba diving, motorcycling and off-road racing are just someways I get away from the programming screen.
+# baseurl: "" # the subpath of your site, e.g. /blog/
+# url: "http://kalapun.com" # the base hostname & protocol for your site
+
+# relative_permalinks: false
+
+markdown: CommonMarkGhPages
+commonmark:
+  options: ["SMART", "FOOTNOTES"]
+  extensions: ["strikethrough", "autolink", "table"]
+# markdown: redcarpet
+# redcarpet:
+#   extensions: ["tables", "autolink"]
+
+optional_front_matter:
+  remove_originals: true
+  
+titles_from_headings:
+  enabled:     true
+  strip_title: true
+  collections: true
+
+relative_links:
+  enabled:     true
+  collections: true
+
+plugins:
+  - jekyll-github-metadata
+  - jekyll-default-layout
+  - jekyll-optional-front-matter
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  - jekyll-commonmark-ghpages
+  - jekyll-remote-theme
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+
+
+# Theme config
+# theme: jtx-minima
+remote_theme: "xslim/jtx-minima"
+# remote_theme: "mmistakes/minimal-mistakes"
+
+show_excerpts: false
+
+disqus:
+  shortname: kalapun
+google_analytics: UA-2087894-2
+
+
+# 
+# defaults:
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: post
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
+
+# collections:
+#   projects:
+#     output: true
+#     permalink: /projects/:path/
+#     layout: project
+#   cheats:
+#     output: true
+#     permalink: /cheats/:path/
+#     layout: page
+
+# exclude: ['_cheats/README.md']
+
+# defaults:
+#   -
+#     scope:
+#       type: "posts"
+#     values:
+#       layout: "post"
+#       category: "posts"
+#   -
+#     scope:
+#       path: "projects"
+#       type: "projects"
+#     values:
+#       layout: "project"
+#   -
+#     scope:
+#       path: "cheats"
+#       type: "cheats"
+#     values:
+#       layout: "page"
+
+social:
+  # email: mailto:t@kalapun.com
+  # phone: tel:+31621695865
+  github: https://github.com/xslim
+  linkedin: https://linkedin.com/in/tkalapun
+  # facebook: http://facebook.com/tkalapun
+  # flickr: http://flickr.com/xslim
+  rss: https://kalapun.com/feed.xml
+
+
+# prose:
+#   siteurl: "https://kalapun.com"
+#   ignore:
+#     - /_layouts
+#     - /_includes
+#     - /_sass
+#     - /css
+#     - /fonts
+#   metadata:
+#     _posts:
+#       - name: "published"
+#         field:
+#           label: "Published"
+#           element: "checkbox"
+#           value: true
+#       - name: "title"
+#         field:
+#           element: "text"
+#           label: "title"

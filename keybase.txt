@@ -1,0 +1,70 @@
+---
+layout: null
+---
+==================================================================
+https://keybase.io/kalapun
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://kalapun.com
+  * I am kalapun (https://keybase.io/kalapun) on keybase.
+  * I have a public key with fingerprint 7D51 ECB4 062E 1596 4DDB  1511 140D 348B 1033 53A7
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "7d51ecb4062e15964ddb1511140d348b103353a7",
+            "host": "keybase.io",
+            "key_id": "140d348b103353a7",
+            "kid": "01014027a5ca15ccb55e37fc133638841c14cf66986113b9d3909db492ae10ec2e110a",
+            "uid": "3867f67be8c41647627ed6ed00659a19",
+            "username": "kalapun"
+        },
+        "service": {
+            "hostname": "kalapun.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1424855693,
+    "expire_in": 157680000,
+    "prev": "e82ea4ac9ad1ab46f3486f655fece7872b651391cbdc8b1e607ca63c40edb240",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.4
+Comment: https://keybase.io/crypto
+
+yMIcAnicbVJrSBRRFF7zUSnG/lCwLJDBHxmyzZ3HnZk1jRJEkyhLCiuTO3furoM6
+s+2ur5Y1sIiisnwUpGj+KRNfSEYYQiVK+YjAKNSSxCBIE4QSHxF0R+pH0P1zuOd8
+33fO+ThD0aG2yJCYaOGanT/eFjL2Iq3UlrtYdyPAqKZWyTgDTBHZCC7dcBOvx6sb
+fsbJSJoICFYFFnIEiAoUNE0FIgBAYDVekFXA8rzII4lJZgpNn8WgMiryEYdu0hz9
+FOgazf4HX7RRYAFLa5yERIyAiLEqioSXXBjwPORlWQAYCNgFoSJDAHhV0XiFVTRV
+UDhEAEswHQuwiMqVbsjxMpRcUFKJjAUABQlyEtEg0VgWigoCigX0Ea+BSog1KypG
+nlKDCSYzNFmmY2I5YC3yL8CBzRLK9HhNv4nNYloo9Ps9Tovnr/RYwHKiFvyRKFB1
+Q6MmUkIZ8fp002CcgCKxX7c0gcAJsihChU9mSIVH95IC3UKIEpRZ+qw2pIxKEpkj
+SEBYQRpAqgBd1D/ogqLoIphIssSpUAS8ArCqYWosgayEEeSxwBJN5QSWsZY6Z5iM
+k3byIzeV9OluA/lLvYQJDj4/E2YLibRFhG+yzsAWudX+9zgcK5vXN40c6H985eW0
+nD6ZM97z6u67YNy35onso+WDs1+rqx6t5ddW951smhcXEuLqjkV1bW9oHFqs+3HQ
+3jg3ui3pet0+x/7umsvfL4W/nvzoCF2/03nv03l7TcfDN3NLsSlzTcNnnVGzbFxz
+vHm79/Ry5/RAHpc4lkESjKexuQM397Ql3T8xNb53taMt4J5t6w/70PKkISEYErE0
+vXr1yGf7TPZMVjhoGcat066Y/sz0UyMdVV319XLijme/tmSmxmZUtN9amXqgtcqH
+23cNRS/+vJjaM+LMiu77MlYymh0ffJsSyMntvWCf6O4arX1ftLN12bM2leeucHjT
+FuoPDeb7AvO7fwM6lioy
+=Bk1B
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kalapun
+
+==================================================================
