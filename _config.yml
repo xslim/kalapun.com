@@ -8,7 +8,7 @@ permalink: /posts/:title/
 
 author: xslim
 
-# email: t@kalapun.com
+
 # author: Taras Kalapun
 # description: An it-problem solver and adrenaline junky. Sailing, skydiving, scuba diving, motorcycling and off-road racing are just someways I get away from the programming screen.
 # baseurl: "" # the subpath of your site, e.g. /blog/
@@ -102,12 +102,8 @@ google_analytics: UA-2087894-2
 #       layout: "page"
 
 social:
-  # email: mailto:t@kalapun.com
-  # phone: tel:+31621695865
   github: https://github.com/xslim
   linkedin: https://linkedin.com/in/tkalapun
-  # facebook: http://facebook.com/tkalapun
-  # flickr: http://flickr.com/xslim
   rss: https://kalapun.com/feed.xml
 
 
