@@ -4,7 +4,10 @@ backend:
   name: github
   repo: xslim/kalapun.com
   branch: master # Branch to update (optional; defaults to master)
+  site_domain: kalapun.netlify.com
+  
 media_folder: "assets/uploads"
+
 collections:
   - name: "blog"
     label: "Blog"
